@@ -1,5 +1,5 @@
 ## Park Equity Webpage
-This repository contains all data and code for the NYC Council's [2026 Park Equity Webpage]().
+This repository contains all data and code for the NYC Council's [2026 Park Equity Webpage](https://newyorkcitycouncil.github.io/Park_Equity_2026/).
 
 ***  
 
